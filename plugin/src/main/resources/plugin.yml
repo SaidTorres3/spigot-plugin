@@ -1,0 +1,4 @@
+main: com.plugin.App
+name: BlankPlugin
+version: "1.0"
+api: "1.0"
